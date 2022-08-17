@@ -1,0 +1,85 @@
+*{padding: 0.5%; margin: 0%;}
+
+html{font-size: 62,5%;}
+
+body {background-color: lightgray;}
+
+h1 {font-size: 40px;
+text-align: center;
+background-color: grey;
+margin: 0.2%;
+padding: 0.2%;}
+
+h2 {background-color: burlywood;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+h3 {background-color: lightblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: brown;}
+
+.barraDeNavegacion{border: 1px dotted black;
+    background-color: lightgray; 
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;}
+
+.tabla{background-color: rosybrown; 
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 2px dotted black;}
+
+.resumenDeLaTabla{background-color: lightblue; 
+font-style: normal;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: lighter;
+text-align: center;
+overflow: hidden;
+width: 50%;
+border-top: solid 5px red;
+border-right: solid 10px black;
+border-bottom: solid 7px green;
+border-left: solid 12px yellow;
+margin: 3rem;
+padding: 5rem;}
+
+.contactateConNosotros{background-color:lightblue; 
+font-style: normal;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: lighter;
+font-size:larger;
+text-align: center;
+margin: 20px;
+padding: 1px;}
+
+.formularioDeContacto{background-color: lightgreen; 
+font-style: italic;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+font-size: small;
+text-align: center;
+margin: 20px;
+padding: 1px;}
+
+ nav li {
+    display: inline-block;
+    font-size: 14px}
+
+.jefesDeObra{
+    width: 50rem;
+}
+
+.armaduraDeObra{
+    width: 50rem;
+}
+
+.planoDeObra{
+    width: 50rem;
+}
+
+.gruasEnObra{
+    width: 50rem;
+}
