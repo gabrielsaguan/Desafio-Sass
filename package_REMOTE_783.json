@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "nodejs",
-=======
   "name": "desafio05gabrielsaguan",
->>>>>>> 06018ec1e6c0df785e7903646e72d11cb8be91fb
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,13 +15,5 @@
   "bugs": {
     "url": "https://github.com/gabrielsaguan/desafio05/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/gabrielsaguan/desafio05#readme",
-  "devDependencies": {
-    "node-sass": "^7.0.1",
-    "nodemon": "^2.0.19"
-  }
-=======
   "homepage": "https://github.com/gabrielsaguan/desafio05#readme"
->>>>>>> 06018ec1e6c0df785e7903646e72d11cb8be91fb
 }
