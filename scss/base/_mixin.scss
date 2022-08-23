@@ -1,0 +1,10 @@
+@mixin titulos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1{
+    @include titulos();
+    background-color: $color4;
+  }

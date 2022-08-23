@@ -1,3 +1,20 @@
+.gruasEnObra, .clase {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 10px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+}
+
 .clase {
   background-color: grey;
 }
@@ -6,7 +23,6 @@ body h1 {
   font-size: 40px;
   text-align: center;
   background-color: grey;
-  margin: 0.2%;
   padding: 0.2%;
 }
 body h2 {
@@ -84,7 +100,7 @@ body .planoDeObra {
   width: 50rem;
 }
 body .gruasEnObra {
-  width: 50rem;
+  width: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */
