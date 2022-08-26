@@ -21,11 +21,6 @@ h1 {font-size: 40px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color: brown;}
         
-        .barraDeNavegacion{border: 1px dotted black;
-            background-color: lightgray; 
-            font-style: oblique;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            color: red;}
         
         .tabla{background-color: rosybrown; 
             font-style: italic;
@@ -73,18 +68,36 @@ h1 {font-size: 40px;
             font-size: 14px}
         
         .jefesDeObra{
-            width: 50rem;
-        }
-        
-        .armaduraDeObra{
-            width: 50rem;
+            width: 100%;
+            height: 550px;
+            display: flex;
+            justify-content:center;
         }
         
         .planoDeObra{
-            width: 50rem;
+            width: 100%;
+            height: 450px;
+            display: flex;
+            justify-content:center;
+        }
+
+        .armaduraDeObra{
+            width: 100%;
+            height: 650px;
+            display: flex;
+            justify-content:center;
         }
         
         .gruasEnObra{
-            width: 50px;
+            width: 100%;
+            height: 650px;
+            display: flex;
+            justify-content:center;
         }
-}
+
+        footer {font-size: 15px;
+            text-align: center;
+            background-color: lightsteelblue;
+            padding: 0.1%;}
+
+    }
